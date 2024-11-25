@@ -1,4 +1,11 @@
 ## Hi there 👋
+👋 Hai, saya **Ryu Nakamurar**!
+
+👨‍💻 Saya seorang _web developer_ yang antusias dengan teknologi _open-source_.
+
+🌱 Saat ini saya sedang belajar **React** dan **Laravel**.
+
+📫 Hubungi saya di ryunakamura@gmail.com
 
 <!--
 **LearnProgrammingDev/learnProgrammingDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
