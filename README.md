@@ -1,9 +1,9 @@
 # 💫 About Me:
 hy there i'm programmer | student | content creator
 
-## Frontend: HTML, CSS, JavaScript, React.js, Tailwindcss, Bootstrap, Blade
-## Backend: PHP, Laravel (filament, livewire), NodeJS,
-## Tools: Git, VS Code, Postman, MySQL
+### Frontend: HTML, CSS, JavaScript, React.js, Tailwindcss, Bootstrap, Blade
+### Backend: PHP, Laravel (filament, livewire), NodeJS,
+### Tools: Git, VS Code, Postman, MySQL
 
 
 # 💻 Tech Stack:
